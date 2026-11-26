@@ -1,0 +1,1 @@
+export const CONTEXT_OPTIONS = ['LGC', 'DLC'] as const

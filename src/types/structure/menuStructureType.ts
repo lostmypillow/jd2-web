@@ -1,0 +1,1 @@
+export type MenuStructureType = 'CONTAINER' | 'ACTION' | 'LINK' | 'SEPARATOR'

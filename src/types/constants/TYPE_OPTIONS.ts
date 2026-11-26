@@ -1,0 +1,1 @@
+export const TYPE_OPTIONS = ['CONTAINER', 'ACTION', 'LINK', 'FTP', 'HTTP'] as const

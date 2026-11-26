@@ -1,0 +1,1 @@
+export type AvailableLinkState = 'ONLINE' | 'OFFLINE' | 'UNKNOWN' | 'TEMP_UNKNOWN'

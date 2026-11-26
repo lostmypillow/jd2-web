@@ -1,0 +1,1 @@
+export type Priority = 'HIGHEST' | 'HIGHER' | 'HIGH' | 'DEFAULT' | 'LOWER' | 'LOWEST'

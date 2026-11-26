@@ -1,0 +1,1 @@
+export const CONTROLLER_STATUS_OPTIONS = ['RUNNING', 'QUEUED', 'NA'] as const

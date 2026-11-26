@@ -1,0 +1,9 @@
+export const SKIP_REQUEST_OPTIONS = [
+    'SINGLE',
+    'BLOCK_HOSTER',
+    'BLOCK_ALL_CAPTCHAS',
+    'BLOCK_PACKAGE',
+    'REFRESH',
+    'STOP_CURRENT_ACTION',
+    'TIMEOUT',
+] as const

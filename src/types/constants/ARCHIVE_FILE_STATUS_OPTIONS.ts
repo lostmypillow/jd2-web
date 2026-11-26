@@ -1,0 +1,1 @@
+export const ARCHIVE_FILE_STATUS_OPTIONS = ['COMPLETE', 'INCOMPLETE', 'MISSING'] as const

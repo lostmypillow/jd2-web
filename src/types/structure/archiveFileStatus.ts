@@ -1,0 +1,1 @@
+export type ArchiveFileStatus = 'COMPLETE' | 'MISSING' | 'INCOMPLETE'

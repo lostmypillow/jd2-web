@@ -1,0 +1,23 @@
+export interface LinkQuery {
+    addedDate?: boolean | null
+    bytesLoaded?: boolean | null
+    bytesTotal?: boolean | null
+    comment?: boolean | null
+    enabled?: boolean | null
+    eta?: boolean | null
+    extractionStatus?: boolean | null
+    finished?: boolean | null
+    finishedDate?: boolean | null
+    host?: boolean | null
+    jobUUIDs?: number[] | null
+    maxResults?: number | null
+    packageUUIDs?: number[] | null
+    password?: boolean | null
+    priority?: boolean | null
+    running?: boolean | null
+    skipped?: boolean | null
+    speed?: boolean | null
+    startAt?: number | null
+    status?: boolean | null
+    url?: boolean | null
+}

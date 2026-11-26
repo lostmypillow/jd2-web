@@ -1,0 +1,1 @@
+export type UnorderedList<T> = T[]

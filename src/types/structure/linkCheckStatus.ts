@@ -1,0 +1,1 @@
+export type LinkCheckStatus = 'PENDING' | 'RUNNING' | 'COMPLETED' | 'FAILED' | 'UNKNOWN'

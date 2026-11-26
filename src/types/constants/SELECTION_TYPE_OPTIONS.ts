@@ -1,0 +1,1 @@
+export const SELECTION_TYPE_OPTIONS = ['SELECTED', 'UNSELECTED', 'ALL', 'NONE'] as const

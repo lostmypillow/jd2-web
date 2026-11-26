@@ -1,0 +1,1 @@
+export const STATUS_OPTIONS = ['NA', 'PENDING', 'FINISHED'] as const

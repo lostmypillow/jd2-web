@@ -1,0 +1,1 @@
+export type DownloadListDiff = Record<string, never>

@@ -1,0 +1,1 @@
+export type ControllerStatus = 'RUNNING' | 'QUEUED' | 'WAITING' | 'IDLE'
